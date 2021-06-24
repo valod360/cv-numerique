@@ -2,3 +2,60 @@
     padding: 0;
     margin: 0;
 }
+.imgfondDebut{
+    background: url('../Images/thousand-sunny.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.imgfondDoctwo{
+    background: url('../Images/thousand-sunny-doc-2.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.competence{
+    background: url('../Images/attelier-de-franky.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.formation{
+    background: url('../Images/bibiliotheque-fond.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.imgfondDocthree{
+    background: url('../Images/thousand-sunny-doc-3.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.experiencePro{
+    background: url('../Images/salle-des-homme-fond.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+.imgfondDocfour{
+    background: url('../Images/thousand-sunny-doc-4.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.infoCon{
+    background: url('../Images/cuisine-fond.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
